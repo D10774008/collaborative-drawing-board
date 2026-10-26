@@ -1,0 +1,10 @@
+C:\Users\ASUS\collaborative-drawing-board\target\debug\deps\icu_normalizer-a7144a14b29854c9.d: C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\properties.rs C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\provider.rs C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\uts46.rs
+
+C:\Users\ASUS\collaborative-drawing-board\target\debug\deps\libicu_normalizer-a7144a14b29854c9.rlib: C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\properties.rs C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\provider.rs C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\uts46.rs
+
+C:\Users\ASUS\collaborative-drawing-board\target\debug\deps\libicu_normalizer-a7144a14b29854c9.rmeta: C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\properties.rs C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\provider.rs C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\uts46.rs
+
+C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\properties.rs:
+C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\provider.rs:
+C:\Users\ASUS\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\icu_normalizer-2.4.0\src\uts46.rs:
