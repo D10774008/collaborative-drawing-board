@@ -19,7 +19,6 @@ async fn main() {
                 if msg.is_text() {
                     let data: DrawMessage = serde_json::from_str(msg.to_text().unwrap()).unwrap();
                     println!("recv: {:?}", data);
-                    // 广播这里后面再加，先回发测试
                     let resp = serde_json::to_string(&data).unwrap();
                     write.send(Message::Text(resp)).await.unwrap();
                 }
